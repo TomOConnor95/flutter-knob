@@ -1,8 +1,19 @@
 # knob
 
-A simple knob UI element.
+A simple knob UI widget.
 
 ## Getting Started
+
+Add the dependency to your `pubspec.yaml`:
+
+```
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_knob: // Add it here
+```
+
+
 
 This package provides a Knob widget with a similar API as Flutter's Slider widget.
 
