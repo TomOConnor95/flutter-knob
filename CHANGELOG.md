@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 10/08/2019
 
-* TODO: Describe initial release.
+A very basic knob for use in Flutter, with a similar interfce to the Slider widget

@@ -1,8 +1,8 @@
-name: knob
-description: A new Flutter package project.
+name: flutter_knob
+description: A simple easy-to-use Knob widget with a similar interface to the Slider widget
 version: 0.0.1
-author:
-homepage:
+author: Tom O'Connor
+homepage: https://github.com/TomOConnor95/flutter-knob
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
