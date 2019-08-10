@@ -19,6 +19,8 @@ This package provides a Knob widget with a similar API as Flutter's Slider widge
 
 Working example, showing the Knob controlling, and being controlled by a Slider:
 
+<img src="./knob-and-slider.png" width="300"/>
+
 ```
 import 'package:flutter/material.dart';
 

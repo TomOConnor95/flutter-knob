@@ -1,4 +1,4 @@
-library knob;
+library flutter_knob;
 
 import 'package:flutter/material.dart';
 import 'dart:math';
