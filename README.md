@@ -17,7 +17,7 @@ dependencies:
 
 This package provides a Knob widget with a similar API as Flutter's Slider widget.
 
-Working example:
+Working example, showing the Knob controlling, and being controlled by a Slider:
 
 ```
 import 'package:flutter/material.dart';
