@@ -11,7 +11,7 @@ Working example:
 ```
 import 'package:flutter/material.dart';
 
-`import 'package:knob/knob.dart';`
+`import 'package:flutter_knob/knob.dart';`
 
 void main() => runApp(MyApp());
 
